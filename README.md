@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/prasadcsmanju/firstproject/_apis/build/status/prasadcsmanju.first-dotnetcore-pipeleine)](https://dev.azure.com/prasadcsmanju/firstproject/_build/latest?definitionId=2)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
